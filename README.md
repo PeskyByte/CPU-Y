@@ -8,11 +8,6 @@ A simple python script to montior device stats from the terminal
 ```bash
   pip install psutil
 ```
-- python curses library
-
-```bash
-  pip install curses
-```
 
 ### Roadmap
 
